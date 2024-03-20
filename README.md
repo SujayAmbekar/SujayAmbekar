@@ -2,7 +2,7 @@
 
 <img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">  
 
-<p align="left">💻 SWE @ Sprinklr, Bengaluru, India </p>
+<p align="left">💻 Devops/ Cloud Engineer @ Sprinklr, Bengaluru, India </p>
 <p align="left">💻 Ex Project Intern at Hewlett Packard Enterprise, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
 <p align="left">📈 Problem Solving, Machine Learning and Deep Learning Enthusiast</p>
