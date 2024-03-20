@@ -5,7 +5,7 @@
 <p align="left">💻 Devops/ Cloud Engineer @ Sprinklr, Bengaluru, India </p>
 <p align="left">💻 Ex Project Intern at Hewlett Packard Enterprise, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering from PES University, Bengaluru, India </p>
-<p align="left">📈 Cloud, Infrastructure, Automation, Kubernetes, Terraform, Python, Monitoring</p>
+<p align="left">📈 Cloud, Infrastructure, Automation, Kubernetes, Terraform, Python, Monitoring and Observability</p>
 
 <br><br>
 
